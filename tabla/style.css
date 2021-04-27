@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+  }
+  .table-contain{
+    position: absolute;
+    width:500px;
+    height:500px;
+    border: 5px solid #ffc2b4;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  
+  table, th, td {
+    border: 3px solid #4B0082;
+    border-radius: 10px;
+    margin: 50px;
+  }
+  
+  p {
+    font-weight: bold;
+    font-size: 18px ;
+    color: #9932CC;
+  }
+  p:hover{
+    color: #ffaaa7;
+  }
+  h1
+  {
+    color: #8B008B;
+  }
