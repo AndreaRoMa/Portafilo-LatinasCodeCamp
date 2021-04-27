@@ -1,0 +1,43 @@
+body{
+    text-align:center;
+    font-family: 'Roboto Slab', serif;
+    color: #23049d;
+    font-size: 20px;
+  }
+  .content {
+    display: flex;
+    margin: auto;
+    width: 100vw;
+    height: 100vh;
+    justify-content: space-around;
+    align-items: center;
+    
+  }
+  
+  .circulo {
+   height:150px;
+   width:150px;
+   background:#f39189; 
+   border-radius:50% ;
+  }
+  
+  .triangulo {
+   height: 0px;
+   width: 0px;
+   border-right:100px solid transparent ;
+   border-left:100px solid transparent ;
+   border-bottom:150px solid #8ac4d0;  
+  }
+  
+  .rectangulo {
+    height:100px;
+    width:150px;
+    background:#53354a;
+    margin-top:10px;
+  }
+  
+  .cuadrado {
+   height:150px;
+   width:150px;
+   background:#8c0000; 
+  }
